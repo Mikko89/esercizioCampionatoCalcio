@@ -67,7 +67,4 @@ public class partita {
 			squadraFuori.setPunti(squadraFuori.getPunti()+1);
 		}
 	}
-		
-			
-	}
 }
