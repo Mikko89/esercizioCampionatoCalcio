@@ -11,7 +11,7 @@ public class squadra {
 		this.nome = nome;
 		punti=0;
 	}
-
+	
 	public int getPunti() 
 	{
 		return punti;

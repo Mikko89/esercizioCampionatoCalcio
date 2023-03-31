@@ -7,7 +7,7 @@ public class campionato {
 	private String nome;
 	private ArrayList<squadra> elencoSquadre;
 	private ArrayList<partita> elencoPartite;
-	
+
 	public campionato(String nome)
 	{
 		super();
